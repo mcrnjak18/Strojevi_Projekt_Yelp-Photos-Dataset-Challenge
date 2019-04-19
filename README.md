@@ -1,2 +1,2 @@
-# Strojevi_Projekt_SU
+# Strojevi_Projekt_Yelp Photos Dataset Challenge
 Repozitorij kolegija Strojno učenje
